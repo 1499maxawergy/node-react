@@ -1,0 +1,15 @@
+.decorated{
+  color: #ff8c00;
+  font-style: italic;
+  text-decoration: none;
+  font-size: 1.7rem;
+}
+
+.logo{
+  color: black;
+}
+
+.logo:hover{
+  color: #ff8c00;
+  transition: all 1s ease-in;
+}
